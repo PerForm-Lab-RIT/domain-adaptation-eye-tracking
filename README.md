@@ -1,31 +1,16 @@
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center">
   <img width="100%" src="docs/figs/overall_wbg.png" alt="openeds"></img>
   <p>Overall Architecture</p>
 </div>
 
-<!-- <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
-  <div width="19%" style="display: flex; flex-direction: column; align-items: center;">
-    <img src="docs/figs/a.png" alt="openeds"></img>
-    <p>OpenEDS</p>
-  </div>
-  <div width="19%" style="display: flex; flex-direction: column; align-items: center;">
-    <img src="docs/figs/b.png" alt="openeds"></img>
-    <p>RITEyes</p>
-  </div>
-  <div width="19%" style="display: flex; flex-direction: column; align-items: center;">
-    <img src="docs/figs/c.png" alt="openeds"></img>
-    <p>CGAN</p>
-  </div>
-  <div width="19%" style="display: flex; flex-direction: column; align-items: center;">
-    <img src="docs/figs/d.png" alt="openeds"></img>
-    <p>SRCGAN (ours)</p>
-  </div>
-  <div width="19%" style="display: flex; flex-direction: column; align-items: center;">
-    <img src="docs/figs/e.png" alt="openeds"></img>
-    <p>SRCGAN-S (ours)</p>
-  </div>
-</div> -->
-
+<p align="center">
+  <img src="docs/figs/a.png" alt="Image 1" width="19%"/>
+  <img src="docs/figs/b.png" alt="Image 1" width="19%"/>
+  <img src="docs/figs/c.png" alt="Image 1" width="19%"/>
+  <img src="docs/figs/d.png" alt="Image 1" width="19%"/>
+  <img src="docs/figs/e.png" alt="Image 1" width="19%"/>
+  From left to right: OpenEDS, RIT-Eyes, CGAN, SRCGAN, SRCGAN-S datasets.
+</p>
 
 # Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking System
 
@@ -138,7 +123,7 @@ Should you have any question, please contact the corresponding author Viet Dung 
 * Bibtex:
 ```bibtex
 @misc{Nguyen2024Deep,
-  title={Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking Systems}, 
+  title={Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking Systems},
   author={Viet Dung Nguyen and Reynold Bailey and Gabriel J. Diaz and Chengyi Ma and Alexander Fix and Alexander Ororbia},
   year={2024},
   eprint={2403.15947},
