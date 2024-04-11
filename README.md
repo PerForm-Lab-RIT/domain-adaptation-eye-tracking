@@ -1,6 +1,6 @@
-# Deep Domain Adaptation for Eye Segmentation
+# Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking System
 
-Official Implementation for the paper [Deep Domain Adaptation: A Sim2Read Neural Approach for Improving Eye-Tracking System.](https://arxiv.org/abs/2403.15947)
+Official Implementation for the paper [Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking System.](https://arxiv.org/abs/2403.15947)
 
 Should you have any question, please contact the corresponding author Viet Dung Nguyen at his institutional email address.
 
