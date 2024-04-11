@@ -3,7 +3,7 @@
   <p>Overall Architecture</p>
 </div>
 
-<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+<!-- <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
   <div width="19%" style="display: flex; flex-direction: column; align-items: center;">
     <img src="docs/figs/a.png" alt="openeds"></img>
     <p>OpenEDS</p>
@@ -24,7 +24,7 @@
     <img src="docs/figs/e.png" alt="openeds"></img>
     <p>SRCGAN-S (ours)</p>
   </div>
-</div>
+</div> -->
 
 
 # Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking System
