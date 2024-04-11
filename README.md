@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <img width="100%" src="docs/figs/overall.png" alt="openeds"></img>
+  <img width="100%" src="docs/figs/overall_wbg.png" alt="openeds"></img>
   <p>Overall Architecture</p>
 </div>
 
