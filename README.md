@@ -9,7 +9,7 @@
   <img src="docs/figs/c.png" alt="Image 1" width="19%"/>
   <img src="docs/figs/d.png" alt="Image 1" width="19%"/>
   <img src="docs/figs/e.png" alt="Image 1" width="19%"/>
-  From left to right: OpenEDS, RIT-Eyes, CGAN, SRCGAN, SRCGAN-S datasets.
+  From left to right: OpenEDS (real), RIT-Eyes (synthetic), CGAN (generated), SRCGAN (generated, ours), SRCGAN-S (generated, ours) datasets.
 </p>
 
 # Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking System
