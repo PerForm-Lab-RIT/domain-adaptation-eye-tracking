@@ -122,18 +122,28 @@ Should you have any question, please contact the corresponding author Viet Dung 
 
 * Bibtex:
 ```bibtex
-@misc{Nguyen2024Deep,
-  title={Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking Systems},
-  author={Viet Dung Nguyen and Reynold Bailey and Gabriel J. Diaz and Chengyi Ma and Alexander Fix and Alexander Ororbia},
-  year={2024},
-  eprint={2403.15947},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+@article{Nguyen2024DeepDomainAdaptation,
+  author = {Nguyen, Viet Dung and Bailey, Reynold and Diaz, Gabriel J. and Ma, Chengyi and Fix, Alexander and Ororbia, Alexander},
+  title = {Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking Systems},
+  year = {2024},
+  issue_date = {May 2024},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {7},
+  number = {2},
+  url = {https://doi.org/10.1145/3654703},
+  doi = {10.1145/3654703},
+  abstract = {Eye image segmentation is a critical step in eye tracking that has great influence over the final gaze estimate. Segmentation models trained using supervised machine learning can excel at this task, their effectiveness is determined by the degree of overlap between the narrow distributions of image properties defined by the target dataset and highly specific training datasets, of which there are few. Attempts to broaden the distribution of existing eye image datasets through the inclusion of synthetic eye images have found that a model trained on synthetic images will often fail to generalize back to real-world eye images. In remedy, we use dimensionality-reduction techniques to measure the overlap between the target eye images and synthetic training data, and to prune the training dataset in a manner that maximizes distribution overlap. We demonstrate that our methods result in robust, improved performance when tackling the discrepancy between simulation and real-world data samples.},
+  journal = {Proc. ACM Comput. Graph. Interact. Tech.},
+  month = {may},
+  articleno = {25},
+  numpages = {17},
+  keywords = {Deep learning, Domain adaptation, Eye segmentation, Eye-tracking, Generative modeling}
 }
 ```
 
 * ACM Reference Format:
 
 ```txt
-Viet Dung Nguyen, Reynold Bailey, Gabriel J. Diaz, Chengyi Ma, Alexander Fix, and Alexander Ororbia. 2024. Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking Systems. Proc. ACM Comput. Graph. Interact. Tech. 7, 2, Article 1 (June 2024), 17 pages. https://doi.org/10.1145/3654703
+Viet Dung Nguyen, Reynold Bailey, Gabriel J. Diaz, Chengyi Ma, Alexander Fix, and Alexander Ororbia. 2024. Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking Systems. Proc. ACM Comput. Graph. Interact. Tech. 7, 2, Article 25 (May 2024), 17 pages. https://doi.org/10.1145/3654703
 ```
