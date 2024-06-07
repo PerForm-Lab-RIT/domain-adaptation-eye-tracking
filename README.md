@@ -5,16 +5,16 @@
 
 <p align="center">
   <img src="docs/figs/a.png" alt="Image 1" width="19%"/>
-  <img src="docs/figs/b.png" alt="Image 1" width="19%"/>
-  <img src="docs/figs/c.png" alt="Image 1" width="19%"/>
-  <img src="docs/figs/d.png" alt="Image 1" width="19%"/>
-  <img src="docs/figs/e.png" alt="Image 1" width="19%"/>
+  <img src="docs/figs/b.png" alt="Image 2" width="19%"/>
+  <img src="docs/figs/c.png" alt="Image 3" width="19%"/>
+  <img src="docs/figs/d.png" alt="Image 4" width="19%"/>
+  <img src="docs/figs/e.png" alt="Image 5" width="19%"/>
   From left to right: OpenEDS (real), RIT-Eyes (synthetic), CGAN (generated), SRCGAN (generated, ours), SRCGAN-S (generated, ours) datasets.
 </p>
 
 # Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking System
 
-Official Implementation for the paper [Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking System.](https://arxiv.org/abs/2403.15947)
+Official Implementation for the paper [Deep Domain Adaptation: A Sim2Real Neural Approach for Improving Eye-Tracking System.](https://doi.org/10.1145/3654703). [Arxiv](https://arxiv.org/abs/2403.15947).
 
 Attempts to broaden the distribution of existing eye image datasets through the inclusion of synthetic eye images have found that a model trained on synthetic images will often fail to generalize back to real-world eye images (in eye image segmentation context).
 
